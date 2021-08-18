@@ -27,6 +27,15 @@
 			font-size: 1.8em;
 			margin-top: 0.5em;
 		}
+		footer{
+			font-size: 0.8em;
+			text-align: right;
+			margin-top: 3em;
+			margin-right: 1em;
+		}
+		small{
+			font-size: 0.7em;
+		}
 
 	</style>
 
@@ -34,7 +43,7 @@
 
 <body>
 	<div class="container-fluid">
-		<h1>Transcribe <small>Versión 1.0</small> </h1>
+		<h1>Transcribe <small>v1.0.0</small> </h1>
 		<hr>
 		<input type="file" id="file" />
 
@@ -47,7 +56,7 @@
 				</video>
 				<p>Velocidad de reproducción: x<span id="playbackrate">1</span></p>
 				
-				<p>Atajos de teclado:</p>
+				<p><strong>Atajos de teclado:</strong></p>
 				<p><strong>Esc:</strong> Play/Pausa</p>
 				<p><strong>F1:</strong> Retroceder. <strong>F2:</strong> Adelantar</p>				
 				<p><strong>F3:</strong> Desacelerar velocidad de reproducción. <strong>F4:</strong> Acelerar velocidad de reproducción</p>
@@ -71,6 +80,12 @@
 		</div>
 
 	</div>
+	<footer>
+	Transcribe v1.0.0. Desarrollado por <a href="mailto:sebastian.santillan@gmail.com">Sebastián Santillán</a>.  Distribuido bajo <a href="https://opensource.org/licenses/MIT">licencia MIT</a>.	
+	<br>	
+	Repositorio: 	
+	<a href="https://github.com/sebastiansantillan/transcribe">https://github.com/sebastiansantillan/transcribe</a>
+	</footer>
 </body>
 <script src="main.js"></script>
 
