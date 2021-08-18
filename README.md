@@ -1,8 +1,12 @@
 # Transcribe
-Software de desgrabación de videos y audios.
+Software de transcripción y desgrabación de videos y audios.
 
-Autor: Sebastián Santillan (sebastian.santillan@gmail.com)
+## Versión actual
+- Transcribe v1.0.0 (agosto 2021)
 
-Licencia: MIT
+## Autor
+- Sebastián Santillan (sebastian.santillan@gmail.com)
 
-Versión actual: 1.0.0
+## Licencia
+- MIT
+
