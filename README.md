@@ -2,7 +2,7 @@
 Software de transcripción y desgrabación de videos y audios.
 
 ## Versión actual
-- Transcribe v1.0.0 (agosto 2021)
+- Transcribe v1.1.0 (Marzo 2022)
 
 ## Autor
 - Sebastián Santillan (sebastian.santillan@gmail.com)
